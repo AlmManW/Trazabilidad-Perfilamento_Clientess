@@ -1,10 +1,10 @@
 # Trazabilidad-Perfilamento_Clientess
 
 
---Coautor: Fabian Mojica 
---última modificiación: 2021-02-08
---Archivo Principal: trazabilidadPerfilamiento_Clientes_v4.py
---Versión 1.0 
+Coautor: Fabian Mojica 
+última modificiación: 2021-02-08
+Archivo Principal: trazabilidadPerfilamiento_Clientes_v4.py
+Versión 1.0 
 
 El alcance de esta versión contempla los desarrollo SQL para 57 campos de trazabilidad PERFILAMIENTO CLIENTES divididos en 10 scripts .sql, un archivo principal .py y 2 archivos config.json. 
 
